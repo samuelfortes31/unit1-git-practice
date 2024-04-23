@@ -110,7 +110,9 @@ git branch -M main
 git push -u origin main
 
 ### Step 6
-
-
+ git status
+ git add .
+ git commit -m 'starting a menu'
+git push
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
