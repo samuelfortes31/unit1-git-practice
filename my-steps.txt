@@ -1,0 +1,111 @@
+### Step 2A
+/c/Users/samue
+
+
+### Step 2B
+$ cd desktop
+
+
+### Step 2C
+$ cd Unit1-git-practice/
+
+### Step 2D
+
+$ /c/Users/samue/Desktop/Unit1-git-practice/
+
+### Step 2E
+
+ls
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd \
+
+### Step 2H
+ /c/Users/samue/
+
+
+### Step 2I
+ dir
+my-steps.txt
+
+### Step 2J
+cd ~
+
+
+### Step 2K
+ cd Desktop/
+ cd Unit1-git-practice/
+
+### Step 3A
+
+/Desktop/Unit1-git-practice
+mkdir veggies
+mkdir meats
+ mkdir desserts
+
+### Step 3B
+ mv desserts sweets
+
+### Step 3C
+mkdir protein
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+ cd veggies
+ls
+carrot.txt/  pea.txt/
+
+### Step 3F
+ cd sweets
+mkdir cookies.txt
+
+### Step 3G
+mv cookies.txt donut.txt
+
+
+### Step 3H
+cd Unit1-git-practice/
+mkdir thing.txt
+
+### Step 3I
+ cp -r thing.txt tofu.txt
+
+
+### Step 3J
+ mv tofu.txt proteins
+
+### Step 3K
+ cp -r thing.txt crab.txt
+ mv crab.txt proteins/
+mv crab.txt meats/
+
+
+### Step 3L
+
+$ rm -r thing.txt/
+
+### Step 3M
+
+ cp -r veggies plants
+
+### Step 3N
+mkdir drinks
+rmdir drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
